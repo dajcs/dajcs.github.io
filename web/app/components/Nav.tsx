@@ -11,7 +11,6 @@ const links = [
   { href: "#education", label: "Education" },
   { href: "#42", label: "42 School" },
   { href: "#portfolio", label: "Portfolio" },
-  { href: "#digital-twin", label: "Digital Twin" },
   { href: "#contact", label: "Contact" },
 ];
 
